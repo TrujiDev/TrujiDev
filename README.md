@@ -1,5 +1,3 @@
-# GitHub Profile
-
 Hello, I'm TrujiDev! 👋
 
 ## About Me
