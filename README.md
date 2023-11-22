@@ -40,31 +40,6 @@ I'm a web development and programming enthusiast with a solid foundation in Java
 - Full-stack development experience with Mongo, Express, React, and Node.
 - Authentication with Google and use of JWTs (JsonWebTokens).
 
-### Python
-
-- Python programming.
-- Web application development with Flask.
-- Building REST APIs with Flask.
-- Introduction to and modeling of relational databases.
-
-### HTML5 and CSS3
-
-- Creating web content with HTML5.
-- Styling and designing applications with CSS3, CSS Grid, and Flexbox.
-
-### TKInter
-
-- Utilization of TKInter to build graphical interfaces in Python.
-
-## Featured Projects
-
-Throughout my learning, I've worked on various projects, from web applications to Python projects. Some of them include:
-
-- Development of a REST API in Node.
-- Web applications with Python and Flask.
-- Practical projects with HTML5 and CSS3.
-- Implementation of graphical interfaces with TKInter.
-
 I'm excited to continue learning and contribute to the world of web development. Feel free to explore my repositories, and don't hesitate to contact me for collaborations or suggestions!
 
 Thanks for visiting my profile! 🚀
