@@ -8,13 +8,20 @@ Soy un desarrollador backend enfocado en tecnologías como **Java**, **Node.js**
 - 🛠️ **Herramientas**: Docker, Git, PostgreSQL, MySQL
 - 🌐 **Metodologías**: REST APIs, Microservicios, TDD
 
-## Proyectos Destacados
-- [**API de Gestión de Usuarios**](https://github.com/TrujiDev/gestion-usuarios)  
-  Una API RESTful creada con **Node.js** y **PostgreSQL**. Implementación de contenedores con **Docker** y uso de **Postman** para las pruebas. Incluye autenticación y autorización mediante JWT.
+## Proyecto Destacado
+- [**Productos App Launcher**](https://github.com/TrujiDev/products-app-launcher)  
+  Este proyecto es una aplicación lanzadora de productos que utiliza **NestJS** para crear una arquitectura de microservicios. Implementa características como autenticación mediante **JWT**, gestión de productos y una interfaz amigable para los usuarios. Se utiliza **Docker** para el despliegue y pruebas a través de **Postman**.
+  - **Tecnologías utilizadas**: NestJS, TypeScript, Docker, JWT, PostgreSQL.
 
 ## Certificaciones
-- **NestJS + Microservicios** - Fernando Herrera (Udemy)
-- **JavaScript Moderno** - Juan Pablo de la Torre Valdez (Udemy)
+- **NestJS + Microservicios: Aplicaciones Escalables y Modulares** - Fernando Herrera (Udemy)
+- **NodeJS: De Cero a Experto** - Fernando Herrera (Udemy)
+- **TypeScript: Tu Completa Guía y Manual de Mano** - Fernando Herrera (Udemy)
+- **Docker - Guía Práctica de Uso para Desarrolladores** - Fernando Herrera (Udemy)
+- **SQL de Cero: Tu Guía Práctica con PostgreSQL** - Fernando Herrera (Udemy)
+- **JavaScript Moderno Guía Definitiva Construye +20 Proyectos** - Juan Pablo de la Torre Valdez (Udemy)
+- **Node.js - Bootcamp Desarrollo Web inc. MVC y REST APIs** - Juan Pablo de la Torre Valdez (Udemy)
+- **Python sin fronteras: HTML, CSS, Flask y MySQL** - Nicolás Schurmann (Udemy)
 
 ## Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/trujidev/)
@@ -24,4 +31,3 @@ Soy un desarrollador backend enfocado en tecnologías como **Java**, **Node.js**
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TrujiDev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrujiDev&layout=compact)
-
